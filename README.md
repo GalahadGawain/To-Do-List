@@ -7,7 +7,7 @@ A simple, console-based To-Do List application written in Python. This tool allo
 ```
 .
 ├── to_do_list.py         # Main application logic
-└── todo_list.json        # Task data storage in JSON format
+└── to_do_list.json        # Task data storage in JSON format
 ```
 
 ## ⚙️ Features
@@ -45,7 +45,7 @@ python to_do_list.py
 
 ## 📦 Data Format
 
-Tasks are stored in `todo_list.json` as follows:
+Tasks are stored in `to_do_list.json` as follows:
 
 ```json
 {
